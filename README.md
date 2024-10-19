@@ -1,2 +1,3 @@
 # My-ML-Project-and-Dataset-for-Training
 Machine Learning training at the University of Kinshasa in October 2024.
+This folder contains the practical work carried out during our Machine Learning training at the University of Kinshasa in October 2024. We explored various aspects of machine learning, from exploratory data analysis (EDA) to application deployment with Streamlit. Topics covered include data cleaning and preparation, predictive modeling (simple and multiple linear regression, classification with different algorithms), unsupervised learning (clustering with K-means) and model productionization."
